@@ -1,9 +1,10 @@
-# Web Scraping with Python Code Samples
+# 파이썬으로 웹 크롤러 만들기(3판)
 
-These code samples are for the book <a href="http://shop.oreilly.com/product/0636920078067.do">Web Scraping with Python 2nd Edition</a>
+『파이썬으로 웹 크롤러 만들기(3판)』(한빛미디어, 2025) 예제 코드 저장소입니다.
+이 저장소의 코드는 원서의 저자가 제공하는 코드 중 실행 오류가 발생하거나 오탈자가 있는 부분을 수정한 것입니다.
 
-If you're looking for the first edition code files, they can be found in the <a href="https://github.com/REMitchell/python-scraping/tree/master/v1">v1</a> directory.
+원서의 저자가 제공하는 [코드](https://github.com/REMitchell/python-scraping)는 여기에서 확인할 수 있습니다.
 
-Most code for the second edition is contained in <a href="https://jupyter.org/install.html">Jupyter notebooks</a>. Although these files can be viewed directly in your browser in Github, some formatting changes and oddities may occur. I recommend that you clone the repository, install Jupyter, and view them locally for the best experience.
+## 이 책에 대하여
 
-The web changes, libraries update, and make mistakes and typos more frequently than I'd like to admit! If you think you've spotted an error, please feel free to make a pull request against this repository.
+## 목차
